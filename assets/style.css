@@ -1,3 +1,11 @@
 .flex-parent{
   display: flex;
 }
+
+.row{
+ width: 90%;
+}
+
+.column{
+  width: 30%;
+}
